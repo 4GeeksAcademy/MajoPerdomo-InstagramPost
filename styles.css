@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap');
+.post {
+    background-color: #c4baba;   
+    margin: 5rem auto; 
+    width: 40%;
+  }
+
+  .header , .icons {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Inclusive Sans', sans-serif;
+  }
+
+  .header-user > i, .header > i {
+    margin: 0 1rem;
+
+  }
+
+  .header-user {
+    display: flex;
+    align-items: center;
+  }
+
+  h1{
+    margin: 0;
+  }
+
+  .user-info > p {
+    margin: 0;
+  }
+
+  .user-info {
+    margin-left: 10px;
+
+  }
+
+
+  .photo {
+   width: 100%;
+   height: auto;
+      }
+
+  .footer {
+   font-family: 'Mooli', sans-serif;
+   padding: 1rem;
+    
+  }
+
+  .icons {
+    display: flex;
+    justify-content: space-between;
+       }
